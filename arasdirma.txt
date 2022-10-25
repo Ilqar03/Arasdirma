@@ -1,0 +1,16 @@
+﻿Proqramlaşdırma nədir? 
+ Proqram yaratmaqla bağlı nəzəri və praktiki yaradıcılıq sahəsidir. Proqramlaşdırma dilinin seçilməsi; verilənlərin təşkili qaydalarının dəqiqləşdirilməsi; seçilmiş proqramlaşdırma dilində alqoritmin
+yazılması.
+
+
+Software nədir və kompüterdə necə emal olunur?
+Software(Proqram Təminatı), kompüterləri işə salmaq və müəyyən vəzifələri yerinə yetirmək üçün istifadə olunan təlimatlar, məlumatlar və ya proqramlar toplusudur. Software(Proqram Təminatı), kompüterlərdə, cib telefonlarında, planşetlərdə və ya digər ağıllı cihazlarda işləyən kompüter proqramlarını müəyyənləşdirmək üçün istifadə olunan ümumi bir termindir. Məsələn, şəkilləri redaktə etməyə imkan verən "Photoshop", internetə çıxışı təmin edən "Chrome" və ya veb səhifələr yaratmaq üçün nəzərdə tutulmuş PHP kimi.
+
+
+
+
+ proqramlaşdırma dillərini hansı xüsusiyyətlərinə görə qruplaşdırarsan?
+Dilin əlifbası,sintaksisi və semantiksı
+* Dilin əlifbası dedikdə, həmin dildə işlənən bütün simvollar nəzərdə tutulur.
+* Sintaksis – əlifbada olan simvollardan dilin ayrı-ayrı konstruksiyalarının (komandaların, operatorların) düzəldilməsinin formal qaydalarıdır. Bu qaydalar müxtəlif həll alqoritmlərini proqramlaşdırmağa imkan verir.
+* Semantika – dilin bu və ya digər sintaksis konstruksiyalarının təsviridir. Məsələn, əgər proqramın bu yerində y =a*(b+c) ifadəsinin hesablanması yazılıbsa, onda semantika qaydaları maşına "göstərir" ki, əvvəlcə (b+c) cəmini tapsın, sonra həmin cəmi a-ya vursun.
